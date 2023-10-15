@@ -22,7 +22,7 @@ gantt
 ```
 
 ## PERT圖
-![image](https://github.com/MITC110118132/23a/blob/main/pert.png)
+![image](PERT.png 'image')
 
 
 ## 關鍵路徑
