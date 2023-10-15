@@ -22,7 +22,7 @@ gantt
 ```
 
 ## PERT圖
-![image](PERT.png 'image')
+![image](PERT1.png 'image')
 
 
 ## 關鍵路徑
