@@ -7,7 +7,7 @@ gantt
 
     section 任務清單
     研礙計劃           :a1, 2023-10-01, 1d
-    任務分配           :a2, after a1  , 4d
+    小組分工          :a2, after a1  , 1d
     取得硬體           :a3, after a1  , 17d
     程式開發           :a4, after a2  , 70d
     安裝硬體           :a5, after a3  , 10d
