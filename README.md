@@ -5,7 +5,7 @@
 gantt
     title 第十一組專題任務流程甘特圖
 
-    section 任務清單
+    section 專題分配項目表
     研擬計畫           :a1, 2023-10-01, 1d
     任務分配          :a2, after a1  , 1d
     蒐集資料、語言、程式架構           :a3, after a1  , 3d
