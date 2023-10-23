@@ -38,5 +38,7 @@
 ![image](Function.png 'image')
 
 ## Use Case
+![image](UseCase.png 'image')
+
 
 ## Figma 動態模擬圖
