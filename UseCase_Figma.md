@@ -35,7 +35,7 @@
 ```
 
 ## 功能分解圖
-![image]('function.png' [image])
+![image](function.png 'image')
 
 ## Use Case
 
