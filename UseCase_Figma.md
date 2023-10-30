@@ -47,7 +47,7 @@
 ![image](Function.png 'image')
 
 ## 使用案例說明：
-
+---
 ![image](UseCase_Description.png 'image')
 
 ---
