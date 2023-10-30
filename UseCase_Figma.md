@@ -46,6 +46,10 @@
 ## 功能分解圖
 ![image](Function.png 'image')
 
+## 使用案例說明：
+
+![image](UseCase_Description.png 'image')
+
 ## 使用案例圖(Use Case)
 ![image](UseCase.png 'image')
 
