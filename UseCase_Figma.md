@@ -37,7 +37,7 @@
 ## 功能分解圖
 ![image](Function.png 'image')
 
-## Use Case
+## 使用案例圖(Use Case)
 ![image](UseCase.png 'image')
 
 
