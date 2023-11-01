@@ -74,7 +74,5 @@
 
 ## Figma 動態模擬圖
 ---
-![image](Figma1.png 'image')
----
 ![image](Figma2.png 'image')
 ---
